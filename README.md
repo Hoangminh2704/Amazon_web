@@ -65,7 +65,7 @@ javascript-amazon-project-main/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/javascript-amazon-project-main.git
+   git clone https://github.com/Hoangminh2704/Amazon_web
    ```
 
 2. Open the `amazon.html` file in a web browser to start
