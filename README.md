@@ -1,10 +1,10 @@
-# Amazon Clone Project
+# Simple Amazon Project
 
 A project that simulates the interface and functionality of the Amazon website, built with vanilla JavaScript.
 
 ## Description
 
-This project is a simplified clone of Amazon, focusing on implementing the core features of an e-commerce platform such as product display, shopping cart, checkout, and order tracking.
+This project is a simplified of Amazon, focusing on implementing the core features of an e-commerce platform such as product display, shopping cart, checkout, and order tracking.
 
 ## Project Structure
 
